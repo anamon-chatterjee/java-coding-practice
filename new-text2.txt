@@ -1,1 +1,3 @@
 Updated the code for new-text2.txt
+
+Added a new line at line 3.
